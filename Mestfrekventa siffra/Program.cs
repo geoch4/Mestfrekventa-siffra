@@ -55,7 +55,7 @@ class Program
 		return result;
 	}
 
-	static void Main()
+	static void Main()//testkod, du kan ändra den som du vill
 	{
 		Console.WriteLine(MostFrequentNumber(new int[] { 1, 3, 2, 3, 4, 1, 3, 2, 2, 2, 5 })); // 2
 		Console.WriteLine(MostFrequentNumber(new int[] { 7, 7, 5, 5, 1, 1, 1, 2, 2, 2 })); // 1
